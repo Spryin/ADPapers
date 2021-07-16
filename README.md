@@ -6,7 +6,7 @@ List of Papers on Attack and Defense (AD) in AI Models
 - Attack
 - Defense
 
-### Compuper Vision
+### Computer Vision
 - Attack
 1. **See through Gradients: Image Batch Recovery via GradInversion**. *Hongxu Yin, Arun Mallya, Arash Vahdat, Jose M. Alvarez, Jan Kautz, Pavlo Molchanov*. CVPR 2021. [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.pdf)]
 2. **LAFEAT : Piercing Through Adversarial Defenses with Latent Features**. *Yunrui Yu, Xitong Gao, Cheng-Zhong Xu*. CVPR 2021. [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_LAFEAT_Piercing_Through_Adversarial_Defenses_With_Latent_Features_CVPR_2021_paper.pdf)]
